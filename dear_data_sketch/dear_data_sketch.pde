@@ -6,5 +6,5 @@ void setup(){
 }
 
 void draw(){
-  
+  rect(60,69,60,60);
 }

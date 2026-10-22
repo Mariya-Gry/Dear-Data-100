@@ -1,1 +1,13 @@
 id,date,time,medium,category,technique,visual,size,colour,relevance,response,attention,encounters,capture_method
+001,2026-10-20,16:30,street billboard,housing,information,mostly text and property information,small,blue,low,neutral,1,1,memory
+002,2026-10-20,12:00-13:00,Pinterest,groceries/food,humour/wordplay,"static image; people cooking; food; slogan text",small,green and pink,medium,hungry,3,2,memory
+003,2026-10-20,12:00-13:00,Pinterest,chewing gum,freshness,"static image; packaging; bubble shapes",small,blue pink and purple,low,appealing,3,1,memory
+004,2026-10-20,12:00-13:00,Pinterest,confectionery,seasonal,"static image; text; Halloween-themed detail",small,yellow and brown,medium,hungry,2,1,memory
+005,2026-10-20,17:58,community WhatsApp group,community event,information,"poster/image and accompanying text; event details",medium,black and yellow,high,interested,5,1,memory
+006,2026-10-21,15:36,bus advertisement,film/entertainment,informatiom,fil title and and text,big,grey,medium,neutral,2,1,memory
+007,2026-10-21,16:00-17:00,Tiktok shop product listing,home/furniture,price,product listing and packaging,medium,white and grey,high,curious,2,1,memory
+008,2026-10-21,15:42,Instagram video,fitness,facilities,people exercising,medium,green and pink,high,irritated,3,1,memory
+009,2026-10-21,18:00,printed poster in university accommodation common room,accommodation event,information,"printed poster; event details and text",small,yellow,low,neutral,3,1,memory
+010,2026-10-22,15:00,Pinterest,confectionery,humour,"video; text",small,bright red,low,hungry,2,1,memory
+011,2026-10-22,15:10,Pinterest,home appliance,brand,"static image; coffee machine and brand",medium,blue and purple,low,neutral,3,1,memory
+012,2026-10-22,15:30,Pinterest,home/interior design,aesthetic appeal,"static image; styled room interior",large,brown and mixed colours,low,appealing,3,1,memory
